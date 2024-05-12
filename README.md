@@ -1,5 +1,5 @@
 <div align="center">
-# Library of Alexandria
+Library of Alexandria
 
 *A simple GraphQL application made with Spring Boot*
 </div>
